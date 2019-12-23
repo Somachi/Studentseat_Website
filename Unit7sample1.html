@@ -1,0 +1,86 @@
+<!-- This is the home page a user who visits my sites sees.
+When they click the login or submit button it calls a JavaScript function.
+Also the link to the faq web page is at botton on this page -->
+<html>
+<head>
+	<script type="text/javascript" src="JS/Unit7Sample1.js"></script>
+	<link rel="stylesheet" type="text/css" href="CSS/Unit7_mystylesheet1.css">
+	<title>Student Seat</title>
+</head>
+<body>
+
+	<h1 class="WelcHeading">Student Seat</h1>
+	<h2 class="WelcHeading">Welcome to Student Seat</h1>
+	<h2 class="WelcHeading">Please Sign in</h2>
+
+	<!-- The LoginFormFlexContainer has in it the login form -->
+	<div id="LoginFormFlexContainer">
+		<div id="LoginForm">
+			<form>
+				<div id="LoginNameDiv">
+				<label class="LoginLabel" id="NameRegInput"> Name:</label> <input type="text" name="name" id="uname">
+				</div>
+				<div id="LoginPasswordDiv">
+				<label class="LoginLabel"> Password:</label> <input type="text" name="password" id="pwd">
+				</div>
+			</form>
+		</div>
+		<div id="LoginButton">
+			<button type="button" onclick="myFunction3()">Login</button>
+		</div>
+	</div>
+
+	<h3 id="RegisterText">
+	OR Register
+	</h3>
+	
+
+	<!-- The RegisterationFormFlexConatiner has in it the Registeration form -->
+	<div id="RegisterationFormFlexConatiner">
+		<div id="PictureDiv">
+			<p id="PictureText">
+			Upload a picture
+			</p>
+		</div>
+		<div id="RegistrationForm">
+		<form>
+			<div id="RegistrationNameDiv">
+				<label class="RegistrationLabel"> Name:</label><input type="text" name="fullname" id="fname">
+			</div>
+			<div id="RegistrationPasswordDiv">
+		  		<label class="RegistrationLabel"> Password:</label><input type="text" name="password" id="pword">
+		  	</div>
+		  	<div id="RegistrationAgeDiv">
+		  		<label class="RegistrationLabel"> Age:</label><input type="text" name="age" id="userage">
+		  	</div>
+		  	<div id="RegistrationGenderDiv">
+		  		<label class="RegistrationLabel"> Gender:</label><input type="text" name="gender" id="usergender">
+		  	</div>
+		  	<div id="RegistrationCulturalGroupDiv">
+		  		<label class="RegistrationLabel"> Cultural Group:</label><input type="text" name="culturalgroup" id="cgroup">
+		  	</div>
+		  	<div id="RegisterationInterestDiv">
+		  		<label class="RegistrationLabel"> Interest:</label><input type="text" name="Interest" id="userinterest">
+		  	</div>
+		  	<div id="RegistrationLocation">
+				<label class="RegistrationLabel"> Location:</label><input type="text" name="Location" id="rloc">
+			</div>
+		</form> 
+		</div>
+		<!-- The RegistrationButton has in it the Submit button which calls a Js function-->
+		<div id="RegistrationButton">
+			<button type="button" onclick="myFunction()">Submit</button>
+		</div>
+	</div>
+	
+	<h4 id="Links">
+	<a href="Unit7sample6.html">Click here to go to the faq page</a><br>
+	<a href="https://www.google.com">Click here to use google</a>
+	</h4>
+
+	<!-- The below links the google Maps JavaScript API and Places API. It contains the key which is required to make it work with these APIs.
+		The last letters of url &callback=activatePlacesSearch calls the JavaScript function activatePlacesSearch() in the Unit7Sample1.js file -->
+	<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCRStOArBQK0GI5THw88kiq6hQBlBR_HPw&libraries=places&callback=activatePlacesSearch"></script>
+</body>
+
+</html>

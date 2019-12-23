@@ -1,0 +1,128 @@
+
+body{
+    background-color: #1DA1F2;
+}
+.WelcHeading{
+    color: white;
+    
+}
+
+
+input{
+	float:right;
+
+
+	
+}
+
+#LoginFormFlexContainer{
+	position: relative;
+	height: 65px;
+	width: 600px;
+
+
+}
+
+#LoginForm{width: 300px;
+	height: 65px;
+	position: absolute;
+	left: 5px;
+	
+
+}
+
+#LoginNameDiv{
+	height: 35px;
+}
+
+
+#LoginPasswordDiv{
+	height: 35px;
+}
+
+.LoginLabel{
+	font-size: 25px;
+	background-color: white;
+}
+
+
+#LoginButton{position: absolute;
+	left: 350px;
+	bottom: 1px;
+	background-color: white;
+	font-size: 20px;
+
+}
+#RegisterText{
+background-color: white;
+width: 110px;
+}
+
+#RegisterationFormFlexConatiner{
+	position: relative;
+	height: 230px;
+	width: 700px;
+}
+#RegistrationForm{
+	width: 350px;
+	height: 215px;
+	position: absolute;
+	left: 5px;
+
+}
+
+.RegistrationLabel{
+	font-size: 25px;
+	background-color: white;
+}
+
+#RegistrationNameDiv{height: 35px;
+
+}
+
+#RegistrationPasswordDiv{height: 35px;
+
+}
+
+#RegistrationAgeDiv{height: 35px;
+
+}
+
+#RegistrationGenderDiv{height: 35px;
+
+}
+
+#RegistrationCulturalGroupDiv{height: 35px;
+
+}
+
+#RegisterationInterestDiv{height: 35px;
+
+}
+#RegistrationButton{position: absolute;
+	left: 370px;
+	bottom: 10px;
+	background-color: white;
+	font-size: 20px;
+
+}
+
+#PictureDiv{
+	width: 160px;
+	height: 50px;
+	position: absolute;
+	left: 500px;
+	bottom: 60px;
+	background-color: white;
+	font-size: 20px;
+	text-align: center;
+	padding: 2px;
+	padding-top: 70px;
+	padding-bottom: 40px;
+
+}
+
+#ExternalLink{
+	background-color: white;
+	width: 180px;
+}

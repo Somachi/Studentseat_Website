@@ -1,0 +1,37 @@
+<!-- This is the html file that the user who is viewing their profile on My Profile (Unit7sample2.html) click the delete account buton at the bottom. It calls a JavaScript function myFunction9() in the Unit7Sample3.js which has in it a JQuery function that allows a user to hide or show the account deletion message. -->
+
+<html>
+<head>
+	<script src="JS/jquery.min.js"></script>
+	<script src="JS/Unit7Sample3.js" type="text/javascript"></script>
+	<link rel="stylesheet" type="text/css" href="CSS/Unit7_mystylesheet4.css">
+	<title>Student Seat</title>
+</head>
+<body>
+	<h1 class="TextColor">Student Seat</h1>
+
+
+	<!--The RegMessageDiv has in it a Js function caller-->
+	<div id="RegMessageDiv">
+		<script>myFunction9()</script>
+		<button>hide/show message</button>
+	<h2 id="SignUpMsg1">
+		<p>Are you sure you want to delete your account? Please note that once you delete your account you won’t be able to login again. 
+			Click YES to proceed to delete your account or click CANCEL to retain your account
+		</p>
+
+	</h2>
+	</div>
+	
+	<span id = "Sample3contentformat"></span>
+	
+	<div id="RegMessageBottom">
+	<p>
+	<a class="TextColor" href="Unit7sample2.html">Cancel</a>
+	</p>
+	<p>
+	<a class="TextColor" href="Unit7sample1.html">Logout</a>
+	</p>
+	</div>
+</body>
+</html>

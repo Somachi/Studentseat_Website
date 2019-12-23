@@ -1,0 +1,163 @@
+body{
+    background-color: #1DA1F2;
+}
+.LoginHeading{
+    color: white;
+    
+}
+#ProfilePictureContainer{position: relative;
+	height: 201px;
+	width: 500px;
+	
+
+}
+
+#ProfilePictureDiv{width: 220px;
+	height: 215px;
+	position: absolute;
+	left: 1px;
+	
+
+}
+
+#ProfilePictureEditButtonDiv{
+	position: absolute;
+	width: 140px;
+	left: 250px;
+	bottom: 80px;
+	background-color: white;
+	font-size: 20px;
+	text-align: center;
+	height: 50px;
+	line-height: 8px;
+
+}
+
+#ProfileName{
+text-align: left;
+background-color: white;
+}
+#ProfileGender{
+text-align: left;
+background-color: white;
+}
+
+#ProfileAge{
+text-align: left;
+background-color: white;
+
+}
+#ProfileCulturalGroup{
+	text-align: left;
+	background-color: white;
+
+}
+#ProfileInterest{
+	text-align: left;
+	background-color: white;
+
+}
+#ProfileInfo1{
+	color: Black;
+	height: 140px;
+	background-color: white;
+	text-align: left;
+	line-height: 21px;
+	width: 122px;
+	top:220px;
+	position: absolute;
+
+	
+
+}
+#ProfileInfo1LSpacing{position: absolute;
+	bottom:5px;
+	
+	line-height: 28px;
+	
+
+}
+#ProfileInfo2{
+	color: Black;
+	height: 150px;
+	text-align: left;
+	border: 0px;
+	left:140px;
+	position: absolute;
+	top:220px;
+	width: 200px;
+	
+
+}
+#ProfileUserName{
+background-color: white;
+width: 180px;
+height: 20px;
+position: absolute;
+top:1px;
+
+
+}
+#PofileNameEdit{
+background-color: white;
+height: 10px;
+}
+#PofileGenderStatus{
+background-color: white;
+width: 180px;
+height: 20px;
+position: absolute;
+top:27px;
+}
+#PofileGenderEdit{
+background-color: white;
+height: 10px;
+}
+#PofileAgeNumber{
+background-color: white;
+width: 180px;
+height: 20px;
+position: absolute;
+top:54px;
+}
+#PofileAgeEdit{
+background-color: white;
+height: 10px;
+}
+#PofileCulturalGroupCategory{
+background-color: white;
+width: 180px;
+height: 20px;
+position: absolute;
+top:81px;
+}
+#PofileCulturalGroupEdit{
+background-color: white;
+height: 10px;
+}
+#PofileInterestType{
+background-color: white;
+width: 180px;
+height: 33px;
+position: absolute;
+top:107px;
+}
+#PofileInterestEdit{
+background-color: white;
+height: 10px;
+
+}
+
+}
+#LogoutButton{
+	color: white;
+}
+#RegMessageBottom{
+	position: relative;
+	top:320px;
+}
+
+.TextColor{
+    color: white;
+    
+}

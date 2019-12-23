@@ -1,0 +1,75 @@
+<!-- This is the page that gets displayed when a user clicks on the My Profile button after the user log into the site. The JavaScrip function myFunction5() is invoked on this page and it is responsbile for retreving the user's name and inserting it in the Name field-->
+
+<html>
+<head>
+	<script src="JS/Unit7Sample3.js" type="text/javascript"></script>
+	<link rel="stylesheet" type="text/css" href="CSS/Unit7_mystylesheet2.css">
+	<title>Student Seat</title>
+</head>
+<body>
+	<h1 class="LoginHeading">Student Seat</h1>
+	<h3 class="LoginHeading">Welcome to Student Seat</h3>
+	<span id = "Sample2contentformat"></span>
+
+	<h3 class="LoginHeading">My Profile</h3>
+	<div id="ProfilePictureContainer">
+		<div id="ProfilePictureDiv">
+			<img src="JamesHallie.jpg" alt="James Hallie">
+		<div>
+		<div id="ProfilePictureEditButtonDiv">
+			<p id="ProfilePictureEditButton">
+			Upload a picture
+			</p>
+		</div>
+	</div>	
+	
+
+		<table id="ProfileInfo1">
+			<tr id="ProfileInfo1LSpacing">
+				<th rowspan="5">
+				  	Name:<br>
+				  	Gender:<br>
+				  	Age:<br>
+				  	Cultural Group:<br>
+				  	Interest:
+				</th>
+			</tr>
+		    
+		</table>
+		<table id="ProfileInfo2">
+			<tr id=ProfileUserName>
+				<th>
+				  	<script>myFunction5()</script><br>
+				 </th>
+			</tr>
+			<tr id=PofileGenderStatus>
+				<th>
+				  	Male:<br>
+				 </th>
+			</tr>
+			<tr id=PofileAgeNumber>
+				<th>
+				  	18:<br>
+				 </th>
+			</tr>
+			<tr id=PofileCulturalGroupCategory>
+				<th>
+				  	African:<br>
+				 </th>
+			</tr>
+			<tr id=PofileInterestType>
+				<th>
+				  	Soccer:<br>
+				 </th>
+			</tr>
+		</table>
+	<div id="RegMessageBottom">
+	<p>
+	<a class="TextColor" href="Unit7sample1.html">Logout</a>
+	</p>
+	<p>
+	<a class="TextColor" href="Unit7sample7.html">Delete Account</a>
+	</p>
+	</div>
+</body>
+</html>

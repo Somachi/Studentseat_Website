@@ -1,0 +1,120 @@
+body{
+    background-color: #1DA1F2;
+}
+.TextColor{
+    color: white;
+    
+}
+#RegMessageDiv{
+background-color: white;
+color:black;
+width: 600px;
+text-align: center;
+position: relative;
+left: 250px;
+}
+
+#RegMessageBottom{
+	position: relative;
+	top:410px;
+}
+
+#MyGrpBttn{
+background-color: white;
+color:black;
+width: 75px;
+text-align: center;
+position: relative;
+left: 658px;
+top:40px;
+}
+
+#CreatePstBttn{
+background-color: white;
+color:black;
+width: 87px;
+text-align: center;
+position: relative;
+left: 655px;
+top:60px;
+}
+
+#MyProfileBttn{
+background-color: white;
+color:black;
+width: 76px;
+text-align: center;
+position: relative;
+left: 660px;
+top:20px;
+}
+
+.GroupInfomation{
+background-color: white;
+color:black;
+width: 200px;
+height: 150px;
+text-align: center;
+position: relative;
+left: 600px;
+top:30px;
+}
+#CreatePstBttn2{
+background-color: white;
+color:black;
+width: 87px;
+text-align: center;
+position: relative;
+left: 655px;
+top:60px;
+}
+#ReadPstBttn2{
+background-color: white;
+color:black;
+width: 79px;
+text-align: center;
+position: relative;
+left: 655px;
+top:40px;
+}
+
+.FreshmanGrp{
+background-color: white;
+color:black;
+width: 200px;
+text-align: center;
+position: relative;
+left: 5px;
+top:10px;
+}
+
+.Textfield{
+background-color: white;
+color:black;
+width: 300px;
+height: 250px;
+text-align: center;
+position: relative;
+left: 600px;
+top:30px;
+}
+
+#PstPstBttn2{
+background-color: white;
+color:black;
+width: 43px;
+text-align: center;
+position: relative;
+left: 600px;
+top:35px;
+}
+
+#CancelBttn2{
+background-color: white;
+color:black;
+width: 50px;
+text-align: center;
+position: relative;
+left: 842px;
+top:15px;
+}
