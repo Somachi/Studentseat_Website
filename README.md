@@ -29,3 +29,7 @@
 
 ### FAQ Page - When you click "Click here to go to the faq page" on the Home page of the website
 ![Screen Shot 2019-12-22 at 7 46 07 PM](https://user-images.githubusercontent.com/13493736/71332591-fdaf5300-24f3-11ea-970a-b40ce9556f5e.png)
+
+### Drop down details for any information on the FAQ page such as "How do I login?"
+![Screen Shot 2019-12-22 at 7 48 59 PM](https://user-images.githubusercontent.com/13493736/71332630-29cad400-24f4-11ea-8bea-93a10d761c18.png)
+
