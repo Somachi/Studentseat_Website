@@ -23,3 +23,6 @@
 
 ### Registeration Error Message Page - When a filled is left empty such as the Age field
 ![Screen Shot 2019-12-22 at 7 02 50 PM](https://user-images.githubusercontent.com/13493736/71331079-af975100-24ed-11ea-9c3e-1d3eb7bc3606.png)
+
+### Welcome Page - After a successful registeration on the website
+![Screen Shot 2019-12-22 at 7 07 05 PM](https://user-images.githubusercontent.com/13493736/71331209-482dd100-24ee-11ea-9f28-df458bd4c69b.png)
