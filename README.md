@@ -8,3 +8,6 @@
 
 ### Login Error Message Page - When no name was entered in the Name login filled
 ![Screen Shot 2019-12-22 at 6 34 45 PM](https://user-images.githubusercontent.com/13493736/71330345-c2a82200-24e9-11ea-8acd-d408b8d0137f.png)
+
+### Successful Login Page
+![Screen Shot 2019-12-22 at 6 39 09 PM](https://user-images.githubusercontent.com/13493736/71330450-61348300-24ea-11ea-998d-66b0e2371a34.png)
