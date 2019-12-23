@@ -26,3 +26,6 @@
 
 ### Welcome Page - After a successful registeration on the website
 ![Screen Shot 2019-12-22 at 7 07 05 PM](https://user-images.githubusercontent.com/13493736/71331209-482dd100-24ee-11ea-9f28-df458bd4c69b.png)
+
+### FAQ Page - When you click "Click here to go to the faq page" on the Home page of the website
+![Screen Shot 2019-12-22 at 7 46 07 PM](https://user-images.githubusercontent.com/13493736/71332591-fdaf5300-24f3-11ea-970a-b40ce9556f5e.png)
