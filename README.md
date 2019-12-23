@@ -17,3 +17,6 @@
 
 ### My Group Page - When you click My Group button after a successful login
 ![Screen Shot 2019-12-22 at 6 57 14 PM](https://user-images.githubusercontent.com/13493736/71330954-f0429a80-24ec-11ea-80d2-47e2801ce002.png)
+
+### Create Post Page - When you click Create Post button after a successful login or within a group
+![Screen Shot 2019-12-22 at 6 59 02 PM](https://user-images.githubusercontent.com/13493736/71330987-30a21880-24ed-11ea-81b6-29613383abaf.png)
