@@ -11,3 +11,6 @@
 
 ### Successful Login Page
 ![Screen Shot 2019-12-22 at 6 39 09 PM](https://user-images.githubusercontent.com/13493736/71330450-61348300-24ea-11ea-998d-66b0e2371a34.png)
+
+### My Profile Page - When you click My Profile button after a successful login
+![Screen Shot 2019-12-22 at 6 41 22 PM](https://user-images.githubusercontent.com/13493736/71330498-ac4e9600-24ea-11ea-9ef7-eb4a2587cc35.png)
